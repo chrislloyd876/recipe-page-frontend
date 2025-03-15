@@ -1,0 +1,17 @@
+
+/*making all elements their actual size*/
+html{
+    box-sizing: border-box;
+}
+
+*, *::before,*::after{
+    box-sizing: inherit;
+}
+
+
+/*COSMETICS*/
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
