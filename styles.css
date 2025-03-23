@@ -3,6 +3,7 @@ body{
     place-items: center;
     min-height: 100vh;
     font-size: 16px;
+    line-height: 1.5;
 }
 
 /*making all elements their actual size*/
@@ -20,7 +21,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 800px;
+    max-width: 700px;
 }
 
 img{
@@ -68,9 +69,10 @@ h1{
     src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf');
 }
 
-.ingredients{
+.ingredients, .instructions{
     width: 100%;
     border-bottom: 1px hsl(30, 18%, 87%) solid;
+    margin-bottom: 10px;
     padding: 5px;
 }
 
