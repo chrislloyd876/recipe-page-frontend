@@ -13,12 +13,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-[Recipe-Preview]screenshot.png
+![Recipe-Preview]screenshot.png
 
 ### Links
 
 - Solution URL: [https://github.com/chrislloyd876/recipe-page-frontend](https://github.com/chrislloyd876/recipe-page-frontend)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ### Built with
 
